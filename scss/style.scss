@@ -1,0 +1,20 @@
+@use'custom';
+
+//Importing components styles
+
+@use'components/animations';
+@use'components/buttons';
+@use'components/typography';
+@use'components/mixins.scss';
+
+//Impoting sections styles
+
+@use'sections/companies';
+@use'sections/faq';
+@use'sections/footer';
+@use'sections/get-started';
+@use'sections/intro-section';
+@use'sections/navbar';
+@use'sections/portifolio';
+@use'sections/services';
+@use'sections/testimonials';
